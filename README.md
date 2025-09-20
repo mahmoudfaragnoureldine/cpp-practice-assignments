@@ -1,18 +1,26 @@
 # C++ Practice Assignments
 
-This repository contains a collection of C++ assignments and exercises that I solved while revising the language.
-The goal of this repo is to gather all the practice work in one place and to track my progress in learning and improving my C++ skills.
+This repository is a collection of C++ assignments and exercises that I solved while revising the language.
+It gathers all my practice work in one place and shows my progress with both **classic and modern C++ concepts**.
 
-## Contents
+## What’s inside
 
-* **Cpp1\_ws – Cpp8\_ws**: Different sets of assignments and practice problems.
-* Each folder includes code files that cover topics like:
+The assignments cover a wide range of topics, including:
 
-  * Variables and basic I/O
-  * Functions and arrays
-  * Object-Oriented Programming (classes, inheritance, polymorphism)
-  * Templates
-  * Problem-solving exercises
+* Basics: variables, operators, arrays, pointers
+* Functions and memory management
+* Object-Oriented Programming (classes, inheritance, polymorphism)
+* Templates and generic programming
+* Standard Template Library (STL)
+* Exception handling and error management
+* Modern C++ features (smart pointers, move semantics, lambda expressions, etc.)
+* Problem-solving exercises that combine multiple concepts
+
+## Purpose
+
+* To organize my practice code in one repository
+* To track my improvement in **C++ problem-solving and modern programming techniques**
+* To serve as a reference for myself and for others who are revising C++
 
 ## License
 
@@ -20,4 +28,4 @@ This project is licensed under the MIT License.
 
 ---
 
-I will keep adding new exercises as I continue my journey with C++ programming.
+I will keep adding new exercises as I continue learning and practicing **C++ (including modern standards)**.
