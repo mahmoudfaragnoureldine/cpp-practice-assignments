@@ -1,26 +1,24 @@
 # C++ Practice Assignments
 
-This repository is a collection of C++ assignments and exercises that I solved while revising the language.
-It gathers all my practice work in one place and shows my progress with both **classic and modern C++ concepts**.
+This repository contains a collection of C++ assignments and exercises that I solved while **revising the language**.
+The repo is not a tutorial, but a way to gather all my practice work in one place and to track my revision progress.
 
-## What’s inside
+## Topics Covered
 
-The assignments cover a wide range of topics, including:
-
-* Basics: variables, operators, arrays, pointers
-* Functions and memory management
-* Object-Oriented Programming (classes, inheritance, polymorphism)
-* Templates and generic programming
-* Standard Template Library (STL)
-* Exception handling and error management
-* Modern C++ features (smart pointers, move semantics, lambda expressions, etc.)
-* Problem-solving exercises that combine multiple concepts
+* Basics: variables, arrays, pointers, functions
+* Object-Oriented Programming: classes, inheritance, polymorphism
+* Templates and STL
+* Exception handling
+* **Modern C++ features**: smart pointers, move semantics, lambda expressions
+* **Design patterns** (implemented in C++ as part of the revision)
+* Problem-solving exercises combining multiple concepts
 
 ## Purpose
 
-* To organize my practice code in one repository
-* To track my improvement in **C++ problem-solving and modern programming techniques**
-* To serve as a reference for myself and for others who are revising C++
+* To organize all the assignments I worked on during my revision
+* To review and strengthen my knowledge in both classic and modern C++
+* To practice applying **design patterns** in modern C++ contexts
+* To serve as a reference for myself, and maybe helpful for others revising C++
 
 ## License
 
@@ -28,4 +26,4 @@ This project is licensed under the MIT License.
 
 ---
 
-I will keep adding new exercises as I continue learning and practicing **C++ (including modern standards)**.
+This repo will keep growing as I continue revising **C++** and exploring more **modern features and design patterns**.
